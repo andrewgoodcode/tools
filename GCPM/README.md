@@ -42,7 +42,7 @@ No other software, accounts, or sign-ups needed.
 
 ### 1. Download it
 
-Go to the [GCPM GitHub page]([GITHUB-LINK]) and download `GCPM.zip`.
+[Click to download](https://github.com/andrewgoodcode/tools/raw/refs/heads/main/GCPM/Google-Chrome-Profile-Manager.zip) `GCPM.zip`.
 
 ### 2. Unzip it
 
