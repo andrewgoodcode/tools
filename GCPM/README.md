@@ -98,4 +98,4 @@ No — it's a lightweight menu bar utility that stays idle until you click it.
 
 ## Get GCPM
 
-**[Download GCPM from GitHub]([GITHUB-LINK])** — free, and takes under a minute to set up.
+**[Download GCPM from GitHub](https://github.com/andrewgoodcode/tools/raw/refs/heads/main/GCPM/Google-Chrome-Profile-Manager.zip)** — free, and takes under a minute to set up.
